@@ -1,4 +1,4 @@
-# Face Generation Using GANs and DCGANs
+# Face Generation Using Vanilla GAN and DCGANs
 
 A Deep Learning project exploring **Generative Adversarial Networks (GANs)** to generate synthetic human face images using PyTorch and the CelebA dataset.
 
